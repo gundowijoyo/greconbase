@@ -57,6 +57,14 @@ Untuk menjalankan audit standar secara langsung:
 ./greconbase.sh target.com
 ```
 
+## 📷 Contoh Hasil Penggunaan (Tangkapan Layar)
+
+Berikut adalah visualisasi ketika tool **GreconBase** dijalankan di dalam terminal:
+
+![Tampilan Eksekusi GreconBase](./screenshot.jpg)
+
+---
+
 Untuk mengaktifkan fitur anti-deteksi bot dan proteksi pemblokiran WAF, gunakan *flag* `--stealth`:
 ```bash
 ./greconbase.sh target.com --stealth
