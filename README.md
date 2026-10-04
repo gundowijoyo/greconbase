@@ -61,7 +61,7 @@ Untuk menjalankan audit standar secara langsung:
 
 Berikut adalah visualisasi ketika tool **GreconBase** dijalankan di dalam terminal:
 
-![Tampilan Eksekusi GreconBase](./screenshot.jpg)
+![Tampilan Eksekusi GreconBase](./IMG_20261005_014544.jpg)
 
 ---
 
