@@ -42,7 +42,7 @@ Melalui proyek ini, diharapkan para pelajar, developer, dan praktisi keamanan pe
 
 ### 1. Kloning Repositori
 ```bash
-git clone https://github.com
+git clone https://github.com/gundowijoyo/greconbase.git
 cd greconbase
 ```
 
